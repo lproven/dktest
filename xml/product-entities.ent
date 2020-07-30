@@ -3,21 +3,21 @@
 
 <!-- PRODUCT NAME AND VERSIONS -->
 <!ENTITY productname   "PRODUCT">
-<!ENTITY productnumber "X.Y">
+<!ENTITY productnumber "15.2">
 
 
 <!-- PROJECT REPOSITORY URL -->
-<!ENTITY repo-url "https://github.com/SUSE/doc-[PRODUCT]">
+<!ENTITY repo-url "https://github.com/SUSE/doc-leap-GNUstep">
 <!ENTITY repo-readme "&repo-url;/blob/master/README.adoc">
 
 <!-- DOCUMENTATION.SUSE.COM PRODUCT URL -->
-<!ENTITY doc-url "&dsc;/[PRODUCT]/[VERSION]">
+<!ENTITY doc-url "&dsc;/leap-GNUstep/15.2">
 
 <!-- RELEASE NOTES URL -->
-<!ENTITY rn-url "&sc-rn;/x86_64/[PRODUCT]/[VERSION]">
+<!ENTITY rn-url "&sc-rn;/x86_64/leap-GNUstep/15.2">
 
 
 <!-- START YEAR OF COPYRIGHT -->
-<!ENTITY copyrightstart  "20XX">
+<!ENTITY copyrightstart  "2020">
 <!-- COPYRIGHT HOLDER(S) -->
 <!ENTITY copyrightholder "SUSE LLC">
