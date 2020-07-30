@@ -23,9 +23,7 @@
   </dm:docmanager>
  </info>
  <para>
-  This appendix contains the GNU Free Documentation License version 1.2,
-  but you can safely ignore it all and do whatever you like. Share and
-  enjoy.
+  This appendix contains the GNU Free Documentation License version 1.2.
  </para>
  <xi:include href="common_license_gfdl1.2.xml"/>
 </appendix>
